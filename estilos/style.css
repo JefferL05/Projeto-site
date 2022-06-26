@@ -11,3 +11,11 @@ body {
   padding: 10px;
   box-shadow: 3px 3px 5px rgb(red, green, blue); 
  }
+ h1{
+  font-size: 2em;
+  color: blue;
+ }
+ a:hover{
+  text-decoration: underline;
+  color: aqua;
+ }
