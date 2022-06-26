@@ -9,8 +9,12 @@ main {
   box-shadow: 3px 3px 5px rgb(red, green, blue);
 }
 h1 {
-  font-size: 2em;
+  font-size: 3em;
   color: blue;
+}
+h2 {
+  font-size: large;
+  color: blueviolet;
 }
 a:hover {
   text-decoration: underline;
