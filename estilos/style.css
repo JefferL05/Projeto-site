@@ -1,3 +1,9 @@
+p {
+  color: rgb(40, 111, 173);
+}
+h1 {
+  color: blueviolet;
+}
 body {
   background-color: aliceblue, blanchedalmond, blueviolet;
 }
