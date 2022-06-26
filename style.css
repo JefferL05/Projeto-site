@@ -1,0 +1,22 @@
+body {
+  background-color: aliceblue, blanchedalmond, blueviolet;
+}
+main {
+  background-color: white;
+  width: 500px;
+  margin: auto;
+  padding: 10px;
+  box-shadow: 3px 3px 5px rgb(red, green, blue);
+}
+h1 {
+  font-size: 3em;
+  color: blue;
+}
+h2 {
+  font-size: large;
+  color: blueviolet;
+}
+a:hover {
+  text-decoration: underline;
+  color: aqua;
+}
